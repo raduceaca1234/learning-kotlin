@@ -6,9 +6,6 @@ fun sayHello() {
 }
 
 fun main(){
-//    println("Hello World")
-//    println(getGreeting())
-//    sayHello()
     val interestingThings = arrayOf("Item1", "Item2", "Item3")
     val interestingThings2 = listOf("Item1", "Item2", "Item3")
     val interestingThings3 = mutableListOf("Item1", "Item2", "Item3")
